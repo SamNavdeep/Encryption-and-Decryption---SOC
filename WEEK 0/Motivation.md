@@ -1,4 +1,4 @@
-# Motivation
+# Motivation 🔥
 
 Before the commencement of the SOS, let us talk about the motivation of the project, why are we interested in it and a brief- "how?". 
 
