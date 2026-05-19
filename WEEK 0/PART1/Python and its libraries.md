@@ -13,10 +13,16 @@ My suggestion : the videos which are given below are just for some intuition on 
 
 For various DS methods:
 Pytorch library: https://www.youtube.com/watch?v=OIenNRt2bjg&t=192s
+
 Pandas library: https://www.youtube.com/watch?v=tRKeLrwfUgU
+
 Numpy library: https://www.youtube.com/watch?v=uRsE5WGiKWo
 
 To Visualize the plots/graphs we use matplotlib library: https://www.youtube.com/watch?v=D4VlmL3G4_o
+
+Apart from these there are many other libraries as well, but learning about them all is an unnecessary task, with the course of the project we will be discussing few important classes and their functions within those libraries.
+
+Again, there is no point of getting overwhelmed by the vastness of these libraries, you would be able to pick up gradually with time.
 
 # Basics of DS
 Since the making of a model involves data reformation, we need to discuss some data structures language - statistics and mathematics. the below playlist would help understading the basic terminology in DS.
