@@ -16,7 +16,10 @@ Appromimate time to reach from one city part to east:
 + West to east :40 min via forest and 1 hr 45 min via long route
 + south to east :30 min
 
-Victim: Teacher, mid 40s, Joined this occupation more than decade ago and had no rivalries.
+Victim: Teacher, mid 40s, lives in city east, Joined this occupation more than decade ago and had no rivalries.
+
+Crime scene: under the bridge 2-3min away from victim's home.
+
 You move on to the Family now- 
 
 Any personal problems with someone? 
@@ -32,12 +35,12 @@ Close friend, huh. well, Thank you for your time, I am sorry for your loss.
 
 You now collect the information of the people : https://drive.google.com/file/d/1JEVPBEmde_qflPzY6zWEzhwL7w0jGxbZ/view?usp=sharing
 
-Your suspection grows more towards the school teachers and you ask every teacher what they were doing during that time and their family members. All the family 
+Your suspicion grows more towards the school teachers and you ask every teacher what they were doing during that time and their family members. All the family 
 members of each family confirm that the every teacher was at home around 10PM more or less. 
 
 You still get the Teacher information: https://drive.google.com/file/d/1IzVvDn60L5-1M9sHdOcV8OsDQJrYpLxG/view?usp=sharing
 
 Find out who the killer was. 
-Dw, if your approach might be different than me to think but I tried to keep it more or less straightforwarded only to prevent discrepancies, but still you get conclude with differnt person as killer it will still be 
-acknowledge as valid ans, so dw about solving correctly.
-(Bonus : Explain what was the motive of the killer, with your own imagination)
+Dw, if your approach might be different than me, in thinking. I tried to keep it more or less straightforwarded, to prevent any discrepancies, but still if you conclude with differnt person as killer, it will still be 
+acknowledged as valid answer, so dw about solving correctly.
+(Bonus : Explain what was the motive of the killer i.e. give a story plot, with your own imagination)
