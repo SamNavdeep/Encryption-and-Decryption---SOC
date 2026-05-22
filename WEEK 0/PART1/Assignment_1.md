@@ -68,11 +68,6 @@ Your task is to analyze and clean the dataset using Python with Pandas, NumPy, a
 Steps:
 + Explore the dataset , use the .head(),.shape,etc;
 + find missing values and replace them with the mean and median for pressure
-+ filter data
-  - experiments with thrust > 1000
-  - unstable experiments
-  - Mars missions
-  - efficiency > 80%
 + sort
    - temperature ascending
    - efficiency descending
