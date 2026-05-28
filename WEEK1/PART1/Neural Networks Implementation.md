@@ -1,6 +1,6 @@
 # NN Implementation
-Well, we understand the maths behind the Neural Networks just a simple matrix multiplication going on again and again. Just to summarize, If you have an input array of
-some size say N, the output after the first layer is W matrix multiplied by with the input matrix and a bias matrix is added. Then, a function, a non linear one in general is 
+Well, we understood the maths behind the Neural Networks, just a simple matrix multiplication going on again and again. Just to summarize, If you have an input array of
+some size say N, the output after the first layer is W matrix multiplied by with the input matrix with a bias matrix added. Then, a function, a non linear one in general is 
 used to get the elements of the next layer
 
 Step 1: Z(n) = W * N(n) + B 
