@@ -26,4 +26,4 @@ Use frequency analysis to find out, what the msg was.
 (Assume the cipher works on the letters and symbols- ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' ', '.', ',', ';', ':', '/', '@'], so no other letter/symbol has been used. the cipher rotates the elements of the array as in the case of general caeser cipher. rotaion by 1 means the last becomes the first,first->second,etc.. Caeser cipher does the nth rotation 1<=n<=len(letters))    
 NOTE : symbols are also encoded, not just the letters.    
 
-OPTIONAL: If you are comfortable with the NN and have time you can do this - make a neural network which can figure out n (rotation index) from any given text, This would be the next week's assignment but anayways, you can give it a shot :)
+OPTIONAL: If you are comfortable with the NN and have time, you can do this - make a neural network which can figure out n (rotation index) from any given text, This would be the next week's assignment but anyways, you can give it a shot :)
