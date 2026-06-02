@@ -19,10 +19,11 @@ Since this is a word manipultion game, you can make your own dataset.
 
 # Training
 Finally you are done with the dataset, It might feel humongous task initially, but do it step by step, you will slowly do it.
-Now use the same model as done boforein the last week just you need to kee the input as M nodes and output would be 1 node- obv it gives you the shift/rotation index. 
+Now use the same model as done bofore in the last week, just you need to kee the input as M nodes and output would be 1 node- obv it gives you the shift/rotation index. 
 Ensure you keep shuffle = True in dataloader.
 Tune your parameters-learning rate, batch size, etc to get better results.
 
-Test your model yoursel by giving it some ciphered text yourself.
+Test your model yourself by giving it some ciphered text.
+
 
 
