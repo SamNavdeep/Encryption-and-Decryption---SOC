@@ -16,3 +16,6 @@ Sentiment analysis model:
 I have implemented this model, use this as a reference when stuck:   
 https://drive.google.com/file/d/1pWNCwSANQF-gsVnM5KYFRH4SOY6aQ0Gp/view?usp=sharing
 
+Since, NLP wasn't shared to you before, If you want you can skip this question as of now but do this when we talk about transformers, after LSTM
+PS: I actually didnt want to use NLP as of now but without NLP it is not giving satisfactory results but you can do the other one - substituition cipher without NLP.
+
